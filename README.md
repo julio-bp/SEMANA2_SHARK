@@ -4,7 +4,7 @@ Proyecto de la semana 2 bootcamp Data
 # BUSINESS CASE
 **Consultoría para Turismo Costero**
 Cliente: Ministerio de Turismo de Australia 
-Objetivo: Desarrollar un sistema de alera y/o prevención además de una campaña de comunicación de riesgos para alertar a los usuarios de las playas y poder reducir los ataques. Con esto se conseguiría mejorar la seguridad y que no afecte al turismo surfista.
+Objetivo: Desarrollar un sistema de alerta y/o prevención además de una campaña de comunicación de riesgos para alertar a los usuarios de las playas y poder reducir los ataques. Con esto se conseguiría mejorar la seguridad y que no afecte al turismo surfista.
 
 Para que se aplicaría:
 

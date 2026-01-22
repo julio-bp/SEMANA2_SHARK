@@ -29,6 +29,7 @@ Contiene información sobre:
 Las variables principales utilizadas en el análisis son:  
 `Country`, `State`, `Location`, `Date`, `Mes`, `Time`, `Activity`, `Fatal Y/N`, `Type`.
 
+
 ## Notas sobre la calidad del dato
 El dataset presenta varios problemas de calidad que han requerido procesos de limpieza:
 
@@ -43,7 +44,7 @@ Se han tomado decisiones de limpieza y estandarización para garantizar la coher
 
 
 ## Preguntas clave / Hipótesis
-1. Australia y Estados Unidos son los países con mayor número de ataques.
+1. Australia y Estados Unidos son los países con mayor número de ataques. 
 2. Las actividades deportivas como el surf presentan mayor riesgo que las actividades de bañistas, y este riesgo varía según el horario.
 3. Los ataques no provocados son más frecuentes y presentan una mayor proporción de casos no fatales.
 4. Los ataques de tiburón son más frecuentes durante los meses de verano, en relación con una mayor actividad turística.
@@ -58,7 +59,7 @@ El análisis incluye:
 
 
 ## Resultados / Insights
-- Australia destaca como uno de los países con mayor número de ataques.
+- EEUU destaca como el país con mayor número de ataques en comparación con Australia. En cambio, Australia supera a EEUU con mayo tasa de mortalidad por ataque. 
 - El surf presenta un mayor nivel de riesgo pese a que los bañistas sufren ataques más mortales.
 - La mayoría de los ataques son no provocados y no fatales.
 - En Australia, los meses de verano (diciembre, enero y febrero) concentran un mayor número de ataques, coincidiendo con una mayor afluencia turística.
@@ -68,6 +69,7 @@ El análisis incluye:
 
 
 ## Recomendaciones de negocio
+- Contrastar las estrategias de protección y educación de EEUU para prevenir la tasa de mortalidad por ataque.
 - Implementar campañas de concienciación específicas para surfistas y bañistas.
 - Refuerzo de señalización y sistemas de alerta en playas de alto riesgo durante el verano.
 - Adaptar los protocolos de seguridad según franjas horarias y tipo de actividad.

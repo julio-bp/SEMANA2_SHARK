@@ -3,7 +3,7 @@
 Proyecto de la semana 2 bootcamp Data
 
 ## TÍTULO 
-Análisis de los ataques de tiburon en las costas australianas (2025)
+Análisis de los ataques de tiburón en las costas australianas (2025)
 
 ## Objetivo del proyecto
 Analizar los ataques de tiburón registrados en Australia con el fin de identificar patrones de riesgo relacionados con la ubicación, el tipo de actividad, el horario y la estacionalidad. El objetivo final es aportar información útil para la prevención de riesgos sin perjudicar la actividad turística costera.
@@ -44,7 +44,7 @@ Se han tomado decisiones de limpieza y estandarización para garantizar la coher
 
 
 ## Preguntas clave / Hipótesis
-1. Australia y Estados Unidos son los países con mayor número de ataques. 
+1. Australia y Estados Unidos son los países con mayor número de ataques siendo fatales la mayoría. 
 2. Las actividades deportivas como el surf presentan mayor riesgo que las actividades de bañistas, y este riesgo varía según el horario.
 3. Los ataques no provocados son más frecuentes y presentan una mayor proporción de casos no fatales.
 4. Los ataques de tiburón son más frecuentes durante los meses de verano, en relación con una mayor actividad turística.

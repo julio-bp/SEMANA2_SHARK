@@ -93,5 +93,5 @@ El análisis incluye:
 ## Cómo replicar el proyecto
 1. Clonar el repositorio.
 2. Instalar las librerías necesarias (`pandas`, `numpy`, `matplotlib`, `seaborn`).
-3. Ejecutar el notebook a través de github: 'https://github.com/julio-bp/SEMANA2_SHARK.git'
+3. Ejecutar el notebook a través de github.
 
